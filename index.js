@@ -65,7 +65,7 @@ function generateREADME({title, description, installation, usage, contribute, te
     ${description}
   
   ## Table of Contents (Optional)
-  ### If your README is long, add a table of contents to make it easy for users to find what they need. Like the following:
+    If your README is long, add a table of contents to make it easy for users to find what they need. Like the following:
   - [Project Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -75,24 +75,24 @@ function generateREADME({title, description, installation, usage, contribute, te
   
   
   ## Installation <a name="installation"/>
-  ### What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-    ${installation}
+    What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+  ${installation}
   
   ## Usage  <a name="usage"/>
-  ### Provide instructions and examples for use. Include screenshots as needed.
-    ${usage}
+    Provide instructions and examples for use. Include screenshots as needed.
+  ${usage}
 
   ## How to Contribute <a name="contribute"/>
-  ### If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-    ${contribute}
+    If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+  ${contribute}
   
   ## Tests <a name="testing"/>
-  ### Go the extra mile and write tests for your application. Then provide examples on how to run them here.
-    ${testing}
+    Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+  ${testing}
   
   ## Questions? <a name="questions"/>
-    ### Email: ${email} or
-    ### Checkout my GitHub Profile [@${github}](https://github.com/${github})
+  Email: ${email} or
+  Checkout my GitHub Profile [@${github}](https://github.com/${github})
 
   ## Sources for this project:
   [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
