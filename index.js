@@ -112,7 +112,7 @@ function writeToFile(fileName, data) {
 // Create a function to initialize app
 function init() {
   inquirer.prompt(questions).then((answers) => {
-    writeToFile("README.md", answers);
+    writeToFile(answers.github + "_README.md", answers);
   });
 }
 
