@@ -22,7 +22,7 @@ Simply fork and clone the repo.
 
 Install Node.js in the root of repo. Then run `node index.js` in terminal. Make sure inquirer is included in dependencies under package.json. I use version 8.2.4 of the Inquirer package. 
 
-Here is a video demo:
+Click screenshot demo to video link:
 
 [![Watch the video demo](assets/images/screenshot.png)](assets/videos/sample_readme.webm)
 
